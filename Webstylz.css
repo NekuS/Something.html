@@ -1,0 +1,27 @@
+body { 
+  background-color: orange
+}
+h1{
+  color: blue;
+    text-align:center;
+      padding:1em;
+        font-family: "chiller";
+          border-radius: 7em;
+             background-color: red
+}
+p#alpha{
+  color:#f0f;
+     background-color: blue;
+      font-style: italic;
+        padding:1em;
+          border-radius:7em;
+            font-family:"chiller"
+}
+p#beta {
+  color:#f0f;
+    background-color: blue;
+      font-style: italic;
+        padding:1em;
+          border-radius:7em;
+            font-family:"chiller"
+}
